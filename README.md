@@ -13,11 +13,13 @@
 - case0.txt  
 
 ![avatar](https://upload.cc/i1/2020/10/24/Se9faK.png) 
+
 > 第 1~N 行：原始訊號 (10-20~1020間任意實數，科學記號表示)
 
 - Output:  
 > 輸出範例  
 ![avatar](https://upload.cc/i1/2020/10/24/Fqv6G1.png)   
+
 > 第 1 行~第 N 行：轉換訊號(任意實數，取小數後六位，不用轉科學記號)  
 
 ## 程式結構說明:  
