@@ -1,5 +1,4 @@
 # 1081_Linear-Algebra_hw4
-# 1082_Linear-Algebra_hw2  
 ## 主要目標:  
 使用 Cosine Transform 進行訊號處理。   
 
@@ -106,13 +105,13 @@ int main(int argc, char* argv[])
 	B.clear();
 }
 ```
-> 將讀入的訊號資訊做處理，
-> 存入X中。
-> 做第一次cosin轉換得到B，
-> 再計算xB^-1存入a中，
-> 再把不需要的訊號濾掉(a[0]~a[47]、a[180]~a[n])，
-> 最後把Ba計算完結果存回x中。
-> 並依照格是輸出。
+> 將讀入的訊號資訊做處理，  
+> 存入X中。  
+> 做第一次cosin轉換得到B，  
+> 再計算xB^-1存入a中，  
+> 再把不需要的訊號濾掉(a[0]~a[47]、a[180]~a[n])，  
+> 最後把Ba計算完結果存回x中。  
+> 並依照格是輸出。  
 
 ```cpp
 long double stringToDouble(string str)
